@@ -22,8 +22,8 @@ Authorized to work in the United States for any employer (US Citizen)
 
 ### PROFESSIONAL EXPEREINCE 
 
-### Advanced technologies, MD (Oct 2014 - Aug 2017)  <br> 
-### SQL Server Developer/DBA
+## Advanced technologies, MD (Oct 2014 - Aug 2017)  <br> 
+## SQL Server Developer/DBA
  
 ### Responsibilities:
 
