@@ -1,13 +1,13 @@
 <p align = "center" >
 <b>
-MICHAEL TAMIRAT
-Ashburn, 
-VA 240-755-5990 
-michaeltamirat@outlook.com
+Mike Ayele <br>
+Kirkland,WA <br> 
+703-596-2010 <br>
+mikael48@yahoo.com
 </b>
 </p>
 
-###SQL SERVER DEVELOPER/DBA
+### SQL SERVER DEVELOPER/DBA
 
 
 Authorized to work in the United States for any employer (US Citizen) 
@@ -20,11 +20,11 @@ Authorized to work in the United States for any employer (US Citizen)
 <b>Software</b>: Microsoft Project, Microsoft SQL Server, Microsoft Visio
 <b>Programming Languages</b>: SQL,HTML
 
-###PROFESSIONAL EXPEREINCE 
+### PROFESSIONAL EXPEREINCE 
 
-###Advanced technologies, MD 			 		<p align = "center" >		   Oct 2014 - Aug 2017  </p>
+### Advanced technologies, MD 			 		<p align = "center" >		   Oct 2014 - Aug 2017  </p>
 
-###SQL Server Developer/DBA
+### SQL Server Developer/DBA
  
 ### Responsibilities:
 
