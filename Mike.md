@@ -22,7 +22,7 @@ Authorized to work in the United States for any employer (US Citizen)
 
 ### PROFESSIONAL EXPEREINCE 
 
-### Advanced technologies, MD 	                     		   Oct 2014 - Aug 2017 <br>
+### Advanced technologies, MD 	           <p align="right"> Oct 2014 - Aug 2017 </p> <br> 
 ### SQL Server Developer/DBA
  
 ### Responsibilities:
@@ -47,6 +47,6 @@ Authorized to work in the United States for any employer (US Citizen)
 
 ### Education
 
-Database Development and Administration             		Jan 2014 – June 2014 <br>
+Database Development and Administration             		<p align ="right"> Jan 2014 – June 2014 </p><br>
 Duna tech IT training center, Silver spring, MD
 
