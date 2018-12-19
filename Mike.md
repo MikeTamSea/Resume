@@ -48,7 +48,7 @@ Authorized to work in the United States for any employer (US Citizen)
 
 ### Education
 
-Database Development and Administration                     		
-Jan 2014 – June 2014
+Database Development and Administration    <br>                 		
+Jan 2014 – June 2014 <br>
 Duna tech IT training center, Silver spring, MD
 
