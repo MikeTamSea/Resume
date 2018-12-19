@@ -12,7 +12,7 @@ mikael48@yahoo.com
 
 Authorized to work in the United States for any employer (US Citizen) 
 
-## TECHNICAL SKILLS
+### TECHNICAL SKILLS
 
 <b>Databases</b>: Microsoft SQL Server 2014/2012/2008/R2/2005, MS Access
 <b>Platforms</b>: Windows 2003/2008/2012 server, Windows XP/Vista/7/8/10, Linux, MAC, MS windows Azure
@@ -22,8 +22,8 @@ Authorized to work in the United States for any employer (US Citizen)
 
 ### PROFESSIONAL EXPEREINCE 
 
-## Advanced technologies, MD (Oct 2014 - Aug 2017)  <br> 
-## SQL Server Developer/DBA
+### Advanced technologies, MD (Oct 2014 - Aug 2017)  <br> 
+### SQL Server Developer/DBA
  
 ### Responsibilities:
 
